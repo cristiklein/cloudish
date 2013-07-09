@@ -8,7 +8,7 @@ This project contains source code associated to the following article submitted 
 
 The branches of this repository are orginazed as follows:
 
-* `actuator`: prototype implementation of the workload generator, the resource manager and the scripts that have been used to conduct experiments and plot the results;
+* `actuator`: author version of the article, prototype implementation of the workload generator, the resource manager and the scripts that have been used to conduct experiments and plot the results;
 * `rubis`: service-level-aware extension of RUBiS and its local controller;
 * `rubbos`: service-level-aware extension of RUBBoS and its local controller.
 
